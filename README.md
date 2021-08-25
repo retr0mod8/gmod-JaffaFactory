@@ -14,4 +14,5 @@ turn on 'Texture Lock' and 'Scaling Texture Lock', click 'Tools' > 'Transform' >
 
 ## Licensing
 If you plan to re-distribute this map with any assets from BDCraft.net, you'll need to credit them. More can be read [here](https://bdcraft.net/downloads/purebdcraft-minecraft/#download) by clicking on 'click to view Terms of Use'\
-Additional atribution to creators of mod texture packs may be required aswell. The creators of all textures in this repository can be found in the description of the [workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2514311238#highlightContent).
+Additional atribution to creators of mod texture packs may be required aswell. The creators of all textures in this repository can be found in the description of the [workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2514311238#highlightContent).\
+Aside from that, work done by me (retr0mod8) is public domain and can be used any way you like.
