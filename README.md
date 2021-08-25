@@ -1,6 +1,7 @@
 # gmod-JaffaFactory
 Repository for [gm_jaffa_factory](https://steamcommunity.com/sharedfiles/filedetails/?id=2514311238) & [ttt_jaffa_factory](https://steamcommunity.com/sharedfiles/filedetails/?id=2539476811)\
-This repository contains assets used to create the map, including but not limited to: Unconverted Textures/Audio/Models, Converted Textures/Audio/Models, and Maps for each day of development.
+This repository contains assets used to create the map, including but not limited to: Unconverted Textures/Audio/Models, Converted Textures/Audio/Models, and Maps for each day of development.\
+Textures/3D Models/Sounds from PureBDcraft ResourcePack by https://bdcraft.net
 
 ## How to setup?
 You will first need to extract the assets from 'MOUNT_SANBOX.ZIP' or 'MOUNT_TTT.7Z' to the root folder in your Garry's Mod installation. This will allow the assets to be used via Hammer Editor and in-game.\
